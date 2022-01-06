@@ -85,7 +85,6 @@ h1{
     
  }
  
- }
  .faka{
      margin:40px;
      margin-left: 200px;
@@ -115,4 +114,24 @@ h1{
     #sesh{
         color: red;
     }
+
+    .abc{
+        display: flex;
+        padding: 30px;
+        margin: 40px;
+        margin-left: 300px;
+    }
+    .abcd{
+       
+        margin: 30px;
+    }
+     #affff{
+         padding-top: 200px;
+         padding-left: 30px;
+     }
+     .cccc{
+         background-color: #FFE4C4;
+         color: tomato;
+         font-size: 55px;
+     }
     
