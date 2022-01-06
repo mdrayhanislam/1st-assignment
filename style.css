@@ -1,0 +1,118 @@
+body{
+    font-family: 'Poppins', sans-serif;
+   
+}
+h1{
+    font-size: 70px;
+    margin: 0%;
+    margin: 12px;
+}
+.p{
+    display: flex;
+    margin-left: 20px;
+}
+.haf-width {
+    width: 50%;
+}
+.haf-width img{
+    width: 60%;
+    margin-left:240px ;
+}
+.haf-width div{
+    margin-top: 220px;
+}
+#orange{
+    color:orange;
+}
+.link-button{
+    background-color:orangered; 
+   /* border: none;*/
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 15px;
+  }
+  #top{
+    border-left: 7px solid;
+    border-image: linear-gradient(tomato);
+    border-image-slice:1 ;
+    
+  }
+ #m{
+     
+     text-align: center;
+     font-size: 30px;
+ }
+ #ra{
+     color: orange;
+ }
+ .fl{
+     display: flex;
+     margin-top:20px;
+    
+ }
+ .whp{
+     margin:40px;
+     box-sizing: border-box;
+     
+     border-radius: 15px;
+ }
+ #c{
+     background-color:#F0FFFF;
+     padding: 20px;
+ }
+ 
+ #ch{
+     background-color:#FFF0F5;
+     padding: 20px;
+ }
+ 
+ #cha{
+     background-color:#FFFACD;
+     padding: 20px;
+ }
+ .space{
+     margin-top: 100px;
+ }
+ .meye{
+     display: flex;
+     margin-left:33px ;
+     margin-right:33px ;
+     margin-top: 33px;
+    
+ }
+ 
+ }
+ .faka{
+     margin:40px;
+     margin-left: 200px;
+     margin-right: 100px;
+     
+     }
+ #pp{
+     padding: 30px;
+     padding-top: 130px;
+ }
+ .bro{
+     font-size: 40px;
+     margin: 0;
+ }
+ #bb{
+     padding-top: 50px;
+    }
+    .faka1{
+     
+      margin-top: 100px;
+    }
+    footer{
+        background-color: black;
+        color: white;
+        text-align: center;
+    }
+    #sesh{
+        color: red;
+    }
+    
